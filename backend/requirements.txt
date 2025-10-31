@@ -1,8 +1,8 @@
 flask
 flask-cors
-scikit-learn
 numpy
 pandas
 google-generativeai
 gunicorn
+scikit-learn==1.2.2
 
