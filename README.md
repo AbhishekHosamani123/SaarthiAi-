@@ -185,7 +185,7 @@ System statistics
 
 The Gemini API key is configured in `app/backend/config.py`:
 ```python
-GEMINI_API_KEY = "AIzaSyC1yEnlXvWwXPapThk76MgN47ZLRwfvMLY"
+GEMINI_API_KEY = "Example-XPapThk76MgN47ZLRwfvMLY"
 ```
 
 ## 📈 Response Quality
